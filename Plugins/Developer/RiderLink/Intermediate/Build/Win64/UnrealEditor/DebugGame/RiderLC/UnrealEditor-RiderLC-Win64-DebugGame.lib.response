@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLC-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\MultiFPSTeach\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLC\RiderLC.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"H:\MultiFPSTeach\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLC\UnrealEditor-RiderLC-Win64-DebugGame.lib"
