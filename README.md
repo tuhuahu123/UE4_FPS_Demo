@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/06462393-7b4b-41f7-a294-53fba9dce37c)# MultiFPSTeach
-
 ## 项目简介
 
 MultiFPSTeach 是一个基于 Unreal Engine 开发的第一人称射击 (FPS) 教学示例项目，包含基本的角色控制、武器系统、射击机制以及多人联机同步功能。该项目适用于想要学习 Unreal Engine FPS 开发的开发者。
