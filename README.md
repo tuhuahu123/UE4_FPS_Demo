@@ -1,4 +1,4 @@
-# MultiFPSTeach
+![image](https://github.com/user-attachments/assets/06462393-7b4b-41f7-a294-53fba9dce37c)# MultiFPSTeach
 
 ## 项目简介
 
@@ -20,11 +20,11 @@ MultiFPSTeach 是一个基于 Unreal Engine 开发的第一人称射击 (FPS) �
 
 ## 服务器测试界面
 
-![服务器测试界面](Images/start_screen.png)
+![服务器测试界面](Image/start_screen.png)
 
 ## 游戏内截图
 
-![游戏内截图](Images/gameplay.png)
+![游戏内截图](Image/gameplay.png)
 
 ## 代码结构
 
